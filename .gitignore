@@ -1,0 +1,16 @@
+/target/
+/logs/
+
+.env
+pom.xml.releaseBackup
+release.properties
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+
+## inner services
+*service
